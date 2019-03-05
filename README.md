@@ -41,7 +41,8 @@ Please refer to the website of the General Department of Traffic [here](https://
 All of your projects will comprise of a written technical report. As we continue in the course, your technical report will grow in complexity, but for this initial project it will comprise:
 - A Jupyter notebook that describes your data with visualizations & statistical analysis.
 - A README markdown file the provides an introduction to and overview of your project.
-- A blog post that showcases the problem and key findings of this project.
+- A blog post in Arabic or English that showcases the problem and key findings of this project. More information will be given on this.
+
 **NOTE**: Your entire Github repository will be evaluated as your technical report. Make sure that your files and directories are named appropriately, that all necessary files are included, and that no unnecessary or incomplete files are included.
 
 

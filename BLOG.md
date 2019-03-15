@@ -14,7 +14,7 @@ Looking at the plot we notice something interesting. All the largest values come
 Thinking over it, aren't these the most populous in the Kingdom? Time to gather regional data.
 
 ### The Big 3
-![](resources/Images/pop_pie.png)
+![](resources/Images/population_pie.png)
 
 It turns out over 65% of the population lives in one of the big 3 regions. That means that naturally both the number of licenses issued and number of accidents will be higher based on their sheer numbers when comparing to the other 10 regions.
 
